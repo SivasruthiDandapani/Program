@@ -1,4 +1,19 @@
-﻿#include<stdio.h>
+/*
+I/P:
+7
+Program
+O/P:
+String Program
+P......P
+.r....r
+..o..o
+...g
+..r..r
+.a....a
+m......m
+*/
+
+#include<stdio.h>
 void space(int);
 int j;
 int main() {
